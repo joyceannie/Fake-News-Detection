@@ -18,7 +18,7 @@ Three classification models are used in this project.
 * Support Vector Machine
 * Passive Aggressive Classifier
 
-Performance evaluation metrics like accuracy and confusion matrix are used for evaluating the models.
+Performance evaluation metrics like accuracy and confusion matrix are used for evaluating the models. Achieved 99.6% accuracy.
 You can read a detailed writeup of the project [here](https://medium.com/@joyceannie111/fake-news-detection-using-nlp-techniques-c2dc4be05f99).
 
 ### Future work
